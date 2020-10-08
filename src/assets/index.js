@@ -1,0 +1,1 @@
+export const taxi_logo = require('./taxi_logo.png')
